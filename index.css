@@ -12,7 +12,6 @@ body {
 
 .gridContainer{
  display: grid;
-  grid-template:
 }
 
 .grid-item {
