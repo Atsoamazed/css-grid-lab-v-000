@@ -10,9 +10,10 @@ body {
   /* your properties here */
 }
 
-.
+.gridContainer{
  display: grid;
   grid-template:
+}
 
 .grid-item {
   background-color: grey;
