@@ -11,10 +11,7 @@ body {
  grid-template-rows: 80px 200px;
 }
 
-.gridContainer{
- display: grid;
- 
-}
+
 
 .grid-item {
   background-color: grey;
